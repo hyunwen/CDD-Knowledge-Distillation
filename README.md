@@ -106,4 +106,3 @@ pip install google-genai datasets json
 *   The effectiveness of knowledge distillation depends heavily on the quality and size of the generated dataset, as well as the architecture and training of the student model.
 
 This project provides a starting point for exploring the potential of knowledge distillation with large language models for code vulnerability detection across different datasets. By capturing the reasoning abilities of advanced models like Gemini 2.0 Flash Thinking and applying them to diverse vulnerability datasets, we aim to develop more efficient, accurate, and generalizable tools for securing software systems.
-```
