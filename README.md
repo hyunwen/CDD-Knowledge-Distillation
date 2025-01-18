@@ -1,4 +1,3 @@
-```
 # Knowledge Distillation for C/C++ Vulnerability Detection (CDD) on Gemini 2.0 Flash Thinking
 
 This project focuses on **knowledge distillation** techniques applied to the task of **C/C++ vulnerability detection (CDD)**, leveraging the experimental **Gemini 2.0 Flash Thinking** model. The goal is to capture and utilize the reasoning capabilities of this powerful model to enhance the performance of vulnerability detection systems.
