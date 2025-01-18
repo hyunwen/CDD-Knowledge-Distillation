@@ -47,14 +47,14 @@ The main script (`cdd_gemini_2_flash.py`) performs the following actions:
 ## Requirements
 
 *   Python 3.x
-*   `google-generativeai` library
+*   `google-genai` library
 *   `datasets` library
 *   `regex` library
 
 Install the required packages using pip:
 
 ```bash
-pip install google-generativeai datasets regex
+pip install google-genai datasets regex
 Use code with caution.
 Usage
 Set up API Key:
