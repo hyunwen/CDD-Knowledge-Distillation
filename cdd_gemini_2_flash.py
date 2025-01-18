@@ -5,7 +5,7 @@ import os
 import json
 
 # Configure the API key
-client = genai.Client(api_key='AIzaSyBW-dfrlDexjkq224Y9X8j-dAvPZemourY', http_options={'api_version':'v1alpha'})
+client = genai.Client(api_key='YOUR_API_KEY', http_options={'api_version':'v1alpha'})
 
 # Load the dataset
 test_set = load_dataset("parquet", data_files="test-00000-of-00001.parquet")
